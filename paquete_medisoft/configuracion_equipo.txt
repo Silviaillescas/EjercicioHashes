@@ -1,0 +1,3 @@
+Modo: produccion
+Puerto: 443
+Version: 2.1.0
