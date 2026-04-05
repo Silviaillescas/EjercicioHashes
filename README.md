@@ -278,3 +278,7 @@ El uso de firmas digitales con RSA permite garantizar que el manifiesto de hashe
 Finalmente, el análisis de contraseñas filtradas demuestra la importancia de utilizar algoritmos especializados como Argon2id para proteger credenciales de usuario.
 
 ---
+
+## Uso de Inteligencia Artificial
+
+Durante el desarrollo de este laboratorio utilicé inteligencia artificial (Chat GPT) como apoyo para aclarar dudas y reforzar algunos conceptos relacionados con funciones hash, verificación de integridad y firmas digitales. La IA me ayudó principalmente a comprender mejor la lógica de implementación en Python y a validar que los pasos realizados fueran correctos.
